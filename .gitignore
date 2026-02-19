@@ -190,3 +190,6 @@ data/*.SQ*
 data/*/*.SQ*
 # Large raw data
 hsls_17_student_pets_sr_v1_0.csv
+
+# Large raw data
+hsls_17_student_pets_sr_v1_0.csv
