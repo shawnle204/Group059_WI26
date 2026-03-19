@@ -29,11 +29,7 @@ For details on our variable selection methodology, see `variable_selection.ipynb
 2. **AP/IB Credit Completion**: r ≈ 0.30
    - Exposure to college-level coursework in high school provides meaningful advantage
    - Students with more AP/IB credits show notably higher freshman GPAs
-
-3. **High School Coursework Rigor**: r ≈ 0.25
-   - Students completing college-bound core curriculum significantly outperform peers
-   - Represents both actual academic challenge and selectivity/college-readiness tracking
-
+     
 ### Moderate Predictors (Correlation 0.15-0.25)
 
 4. **Socioeconomic Status (SES Composite)**: r ≈ 0.20
@@ -41,14 +37,14 @@ For details on our variable selection methodology, see `variable_selection.ipynb
    - Reflects cumulative resource access, academic support infrastructure
    - More nuanced measure of educational advantage
 
-5. **School Academic Context**: r ≈ 0.15
+5. **Student Motivation**: r ≈ 0.19
+   - Student-reported school motivation shows modest positive correlation
+   - Effect plateaus at higher motivation levels
+
+6. **School Academic Context**: r ≈ 0.15
    - School average SAT/ACT performance moderately predicts student outcomes
    - School climate scales (both administrator and student perceptions) show weak but measurable relationships
    - Higher SES schools correlate with better school problem management
-
-6. **Student Motivation**: r ≈ 0.15
-   - Student-reported school motivation shows modest positive correlation
-   - Effect plateaus at higher motivation levels
 
 ### Non-Predictive Factors (Correlation < 0.10)
 
