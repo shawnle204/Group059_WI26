@@ -126,9 +126,8 @@ The analysis suggests a hierarchical model of college readiness determinants:
 - Demonstrates sustained effort, capability, and adaptation to academic demands
 - Most direct predictor of future academic performance
 
-**Tier 2 (Moderate)**: Academic challenge and preparation (AP/IB, Coursework Rigor)
+**Tier 2 (Moderate)**: Academic challenge and preparation (AP/IB)
 - Exposure to college-level content directly prepares students
-- Rigor indicates both objective challenge and sorting into college-ready tracks
 
 **Tier 3 (Weak)**: Broader Context (SES, School Climate, Student Motivation)
 - Provide background/moderating effects
